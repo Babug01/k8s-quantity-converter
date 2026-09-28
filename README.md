@@ -1,6 +1,6 @@
 # K8s Quantity Converter
 
-**Live demo:** https://babug01.github.io/k8s-quantity-converter/
+**Live demo:** https://k8s-quantity-converter.vercel.app (Vercel) · [GitHub Pages mirror](https://babug01.github.io/k8s-quantity-converter/)
 
 Paste any Kubernetes resource quantity string (`500m`, `128Mi`, `1e9`, `2.5Gi`, ...) and see exactly
 what it means in raw base units, plus a plain-language line. Built specifically to call out the most
